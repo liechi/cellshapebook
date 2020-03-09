@@ -1,3 +1,5 @@
 # Auxin and cell expansion
 
 We describe our methods in this chapter.
+
+I cite an auxin paper [@Abley2013].
